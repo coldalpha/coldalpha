@@ -1,5 +1,5 @@
 <p align="right">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="#">
     <img src="https://komarev.com/ghpvc/?username=coldalpha">
 </a>
 </p>    
