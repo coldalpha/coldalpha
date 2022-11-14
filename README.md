@@ -17,7 +17,8 @@
 
 - 🌱 I’m growing on **GO** and **Kubernetes**
 - 👯 I’m looking to collaborate on **OpenSource Project**
-- 📫 How to reach me **cold.alpha07@gmail.com**
+<!-- - 📫 How to reach me **cold.alpha07@gmail.com** -->
+- 📫 How to reach me **ti18fataa.0010@gmail.com**
 - 📝 My Personal website : [https://coldalpha.my.id/](https://coldalpha.my.id/)
 
 ## 📊 My Github Stats
