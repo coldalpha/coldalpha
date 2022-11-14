@@ -1,3 +1,4 @@
+
 <p align="right">
 <a href="#">
     <img src="https://komarev.com/ghpvc/?username=coldalpha">
@@ -8,6 +9,9 @@
 <h3 align="center">Enthusiasm to Learn Programming :smiley:</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2FDA77&center=true&vCenter=true&width=435&lines=Hello...+I'm+Coldalpha;Love+to+learn+something+new)](https://git.io/typing-svg)
+
+
+[![@coldalpha's Holopin board](https://holopin.me/coldalpha)](https://holopin.io/@coldalpha)
 
 ## 🙋‍♂️ About Me
 
