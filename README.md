@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Project**
 <!-- - 📫 How to reach me **cold.alpha07@gmail.com** -->
 - 📫 How to reach me **ti18fataa.0010@gmail.com**
-- 📝 My Personal website : [coldalpha.github.io](https://coldalpha.github.io/) [Under Maintenance]
+- 📝 My Personal website : [coldalpha.github.io](https://coldalpha.github.io/)
 
 ## 📊 My Github Stats
 
