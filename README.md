@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m growing on **GO** and **Kubernetes**
+- 🌱 I’m growing on **PHP[CODEIGNITER & LARAVEL]** and **RESTAPI**
 - 👯 I’m looking to collaborate on **OpenSource Project**
 <!-- - 📫 How to reach me **cold.alpha07@gmail.com** -->
 - 📫 How to reach me **ti18fataa.0010@gmail.com**
